@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Maxim (faz0x) 👋
 
-<!--
-**faz0x-sec/faz0x-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 16 and I'm learning cybersecurity from scratch. My goal is to become a Purple Team specialist and a vulnerability researcher / reverse engineer.
 
-Here are some ideas to get you started:
+What I'm learning now
+Linux fundamentals
+Computer networking
+Python programming
+What I'm working on
+Notes and write-ups, shared in public (see my repositories)
+Hands-on labs and CTF practice
+Goal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Purple Team → Vulnerability Research → Reverse Engineering
+
+Following along
+
+I'm documenting my progress step by step. If you have advice for a beginner, feel free to open an issue or message me.
